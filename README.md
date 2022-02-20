@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lee-KS-kr
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Karel
+- 👀 I’m interested in C, C++, C#, Unity
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lackshata@gmail.com
 
