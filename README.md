@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lee-KS-kr
 - 👀 I’m interested in C, C++, C#, Unity
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My blog : https://mizue-lee.tistory.com
 - 📫 How to reach me KyungseoLee0815@gmail.com
 
 <!---
